@@ -12,7 +12,7 @@ Este es un desafío propuesto en el curso Oracle Next Education, en colaboració
 ## 🎯 | Objetivo [[↑](#índice)]  <a name="-objetivo"></a>
 Este challenge tiene como objetivo ayudar al Señor Juan a decidir qué tienda de su red Alura Store vender, mediante una recomendación basada en el análisis comparativo de datos entre las tiendas.
 
-## 📌 | Qué se creó? [[↑](#índice)]
+## 📌 | Qué se creó? [[↑](#índice)] <a name="-qué-se-creó"></a>
 En el archivo `AluraStoreLatam.ipynb` se puede visualizar el filtrado de datos basado en los siguientes requisitos:
 
 - Comparación de facturación total entre tiendas
@@ -24,11 +24,11 @@ En el archivo `AluraStoreLatam.ipynb` se puede visualizar el filtrado de datos b
 
 Además, se incluye la creación de gráficos para presentar los resultados. Al final del challenge, se interpretan los datos para recomendar qué tienda debería vender el Señor Juan.
 
-## 🔎 | Herramientas Utilizadas [[↑](#índice)]
+## 🔎 | Herramientas Utilizadas [[↑](#índice)] <a name="-herramientas-utilizadas"></a>
 - Python
 - Google Colab
 
-## 📚 | Bibliotecas [[↑](#índice)]
+## 📚 | Bibliotecas [[↑](#índice)] <a name="-bibliotecas"></a>
 - Pandas
 - Numpy
 - Matplotlib
